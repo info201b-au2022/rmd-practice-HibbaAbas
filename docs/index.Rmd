@@ -1,6 +1,6 @@
 ---
 title: "Example Covid Report"
-author: "INFO-201: Class Demo"
+author: "INFO-201: Hiba Abbas"
 date: "2/7/2022"
 output: html_document
 ---
